@@ -20,13 +20,63 @@
 
 ## ⚙️ Tecnologías
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 💻 Lenguajes & Desarrollo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
+</p>
+
+### 🧠 Backend & Arquitectura
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+- Desarrollo de APIs REST  
+- Arquitectura de sistemas  
+- Automatización de procesos  
 
 ---
+
+### 🗄️ Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- Diseño de bases de datos  
+- Optimización de consultas  
+- Gestión de datos  
+
+---
+
+### ⚙️ DevOps & Sistemas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
+
+- Contenedores con Docker  
+- Administración de servidores Linux  
+- Control de versiones (Git)  
+- Deploy de servicios  
+
+---
+
+### 🌐 Web & Networking
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</p>
+
+- Configuración de servidores web  
+- Redes y servicios  
+- Integración cliente-servidor  
+
+---
+
+### 🧰 Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,bash" />
+</p>
+
+- Automatización con scripts  
+- Entornos de desarrollo eficientes  
 
 ## 🧠 Filosofía
 
